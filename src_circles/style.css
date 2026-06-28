@@ -1,0 +1,44 @@
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+}
+
+.blue {
+    border: 20px solid dodgerblue;
+    top: 0;
+    left: 350px;
+    z-index: 1;
+}
+
+.black {
+    border: 20px solid black;
+    top: 0;
+    left: 360px;
+    z-index: 2;
+
+}
+.red {
+    border: 20px solid red;
+    top: 0;
+    left: 370px;
+    z-index: 3;
+}
+
+.yellow {
+    border: 20px solid yellow;
+    left: 475px;
+    top: -120px;
+    z-index: 1;
+}
+
+.green {
+    border: 20px solid seagreen;
+    left: 485px;
+    top: -120px;
+    z-index: 2;
+}
+
